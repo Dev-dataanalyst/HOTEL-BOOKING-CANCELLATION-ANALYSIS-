@@ -47,7 +47,7 @@ In comparison to resort hotels, city hotels have more bookings. It's possible th
 ![image](https://github.com/Dev-dataanalyst/HOTEL-BOOKING-CANCELLATION-ANALYSIS-/assets/143479964/6588110d-50f1-4709-9cde-b609c20d68b8)
 
 
-The line graph above shows that, on certain days, the average daily rate for a city hotel is less than that of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holidays may see a rise in resort hotel rates.
+The line graph above shows that, on certain days, the average daily rate for a city hotel is less than that of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holidays may see a rise in resort hotel rates.	
 
 
 
