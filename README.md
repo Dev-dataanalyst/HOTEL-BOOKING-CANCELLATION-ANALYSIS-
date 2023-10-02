@@ -6,7 +6,8 @@ In recent years, city hotel and resort hotel have been seen high cancellation ra
 
 The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
 
-![image](https://github.com/Dev-dataanalyst/HOTEL-BOOKING-CANCELLATION-ANALYSIS-/assets/143479964/9cede396-8856-417b-b37a-81301f47ee9d)
+![image](https://github.com/Dev-dataanalyst/HOTEL-BOOKING-CANCELLATION-ANALYSIS-/assets/143479964/5e343ecd-c01b-4bf8-9df2-e51325cb7292)
+
 
 
 ### Assumptions
